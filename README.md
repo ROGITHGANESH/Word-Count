@@ -21,8 +21,8 @@ End the program
 ## PROGRAM:
 ```
 #program to find the number of words in a text file
-#Developed by : T.KAVIANAJAI
-#Register number : 212223100020
+#Developed by : ROGITH GANESH.R
+#Register number : 212223100046
 
 num=0
 with open("copy.txt","r") as f1:
